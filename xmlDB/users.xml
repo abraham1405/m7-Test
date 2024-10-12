@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Accounts>
+    <Account>
+        <user>aure</user>
+        <password>12345</password>
+        <dni>16458786A</dni>
+        <extraData>
+            <nacionality>Spain</nacionality>
+            <age>20</age>
+        </extraData>
+    </Account>
+</Accounts>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<cart>
+    <Product>
+        <idProducto>2</idProducto>
+        <quantity>10</quantity>
+        <productItems>
+            <Price>10</Price>
+            <currency>EU</currency>
+        </productItems>
+    </Product>
+</cart>
